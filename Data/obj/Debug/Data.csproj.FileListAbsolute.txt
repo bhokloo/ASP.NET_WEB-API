@@ -1,0 +1,11 @@
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\Data.dll.config
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\Data.dll
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\EntityFramework.dll
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\EntityFramework.xml
+C:\Users\Indrajit Maurya\source\repos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Indrajit Maurya\source\repos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Indrajit Maurya\source\repos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Indrajit Maurya\source\repos\Data\obj\Debug\Data.dll
+C:\Users\Indrajit Maurya\source\repos\Data\obj\Debug\Data.pdb
