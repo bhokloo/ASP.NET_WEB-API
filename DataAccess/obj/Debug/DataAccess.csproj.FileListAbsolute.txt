@@ -1,0 +1,11 @@
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Indrajit Maurya\source\repos\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Indrajit Maurya\source\repos\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Indrajit Maurya\source\repos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Indrajit Maurya\source\repos\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Indrajit Maurya\source\repos\DataAccess\obj\Debug\DataAccess.pdb
