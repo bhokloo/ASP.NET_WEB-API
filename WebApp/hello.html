@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="http://localhost:65083/Scripts/jquery-3.3.1.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $('#load').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://localhost:65083/api/Employee/',
+                    dataType: 'json',
+                    success: function (data) {
+                        $('#list').empty();
+                        $.each(data, function (index, value) {
+                            $('#list').append('<li>' + value.name + '------' + value.age + '----' + value.gender +'</li>');
+                        });
+
+                    }
+
+                })
+            });
+
+            $('#clear').click(function () {
+                $('#list').empty();
+
+            });
+
+        });
+
+    </script>
+</head>
+<body>
+    <input type="button" id="load" value="=load" />
+    <input type="button" id="clear" value="clear" />
+    <ul id="list"></ul>
+
+</body>
+</html>
